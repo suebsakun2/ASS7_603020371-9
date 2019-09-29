@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.myweb.lab7dialogrv_sec1_603020339_5">
+          package="com.example.lab7dialogrv_sec1_603020371_9">
 
     <application
             android:allowBackup="true"
